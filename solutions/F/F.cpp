@@ -26,7 +26,6 @@ void countResult(vector<string> nums) {
   cout << out;
 }
 int main() {
-  vector<string> nums = readLine();
-  countResult(nums);
+  countResult(readLine());
   return 0;
 }
