@@ -1,6 +1,5 @@
 #include <cstddef>
 #include <iostream>
-#include <list>
 #include <set>
 #include <unordered_map>
 #include <vector>
